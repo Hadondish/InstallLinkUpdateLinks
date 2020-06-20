@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "102535509749",
+    "firebase_url": "https://autoupdateapp-8c88d.firebaseio.com",
+    "project_id": "autoupdateapp-8c88d",
+    "storage_bucket": "autoupdateapp-8c88d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102535509749:android:91e9b6488e373fdf8977bc",
+        "android_client_info": {
+          "package_name": "com.AutoUpdateApp.AutoUpdateApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102535509749-tt7mp4gs34m2tju2nfl07t2m708543s2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.AutoUpdateApp.AutoUpdateApp",
+            "certificate_hash": "08ed34ba4e87274f4500613da7708d2653d61bde"
+          }
+        },
+        {
+          "client_id": "102535509749-gk7v7k34urj14dbvj2c1b83sf4crc6ok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT9N5XhKBXQF1_GlHa2lt9c_tE3Y2LD00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102535509749-gk7v7k34urj14dbvj2c1b83sf4crc6ok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
